@@ -95,12 +95,6 @@ div.alert {
         color: #416325;
     }
 
-    div.alert.error {
-        background: #;
-        border: 1px solid #;
-        color: #;
-    }
-
 label {
     padding:0;
     display: block;
